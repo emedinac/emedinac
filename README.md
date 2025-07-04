@@ -59,7 +59,7 @@ or [access my website.](https://future-link)
 
 ### Infrastructure & DevOps & Cloud Technologies
 <p>
-  <img alt="AWS" src="https://img.shields.io/badge/-AWS-FB542B?style=flat&logo=amazon&logoColor=white" />
+  <img alt="AWS" src="https://img.shields.io/badge/-AWS-FF9900?style=flat&logo=amazonaws&logoColor=white"/>
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white" />
   <img alt="Kubernetes" src="https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white" />
   <img alt="Jenkins" src="https://img.shields.io/badge/-Jenkins-557C94?style=flat&logo=jenkins&logoColor=white" />
