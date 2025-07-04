@@ -116,13 +116,14 @@ or [access my website.](https://future-link)
 *************
 
 #### Best regards :shipit:
-<p align="center" dir="auto">
-        <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/emedinac/emedinac/master/svg/Bottom.svg"><img src="https://raw.githubusercontent.com/emedinac/emedinac/master/svg/Bottom.svg" alt="Github Stats" style="max-width: 100%;color:blue"></a>
-
-</p>
 
 <p align="center" dir="auto">
 **renantmagalhaes/renantmagalhaes** is a ✨ _special_ ✨ repository because its `README.md` helped me to improve my GitHub profile.
+</p>
+
+<p align="center" dir="auto">
+        <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/emedinac/emedinac/master/svg/Bottom.svg"><img src="https://raw.githubusercontent.com/emedinac/emedinac/master/svg/Bottom.svg" alt="Github Stats" style="max-width: 100%;color:blue"></a>
+
 </p>
 
 <!--
