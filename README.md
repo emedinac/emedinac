@@ -76,7 +76,7 @@ or [access my website.](https://future-link)
 ### Productivity & Communication Tools
 <p>
   <img alt="VSCode" src="https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white" /> 
-  <img alt="Pycharm" <img src="https://img.shields.io/badge/-PyCharm-5865F2?style=flat&logo=pycharm&logoColor=white" /> 
+  <img alt="Pycharm" src="https://img.shields.io/badge/-PyCharm-5865F2?style=flat&logo=pycharm&logoColor=white" /> 
   <img alt="Atlassian" src="https://img.shields.io/badge/-Atlassian-262577?style=flat&logo=atlassian&logoColor=white" /> 
   <img alt="Slack" src="https://img.shields.io/badge/-Slack-4A154B?style=flat&logo=slack&logoColor=white" /> 
   <img alt="Discord" src="https://img.shields.io/badge/-Discord-5865F2?style=flat&logo=discord&logoColor=white" />
