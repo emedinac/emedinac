@@ -16,7 +16,7 @@ or [access my website.](https://future-link)
 @@ ~/.skills @@
 ```
 
-### AI Frameworks and Tools.
+### **AI** Frameworks and Libraries.
 
 <p>
   <img alt="PyTorch" src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" />
