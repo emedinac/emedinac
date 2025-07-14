@@ -90,7 +90,7 @@ or [access my website.](https://future-link)
 ```
 
 <p align="center">
-  <a href="https://github.com/renantmagalhaes?tab=repositories">
+  <a href="https://github.com/emedinac?tab=repositories">
     <img
       align="center"
       src="https://github-readme-stats.vercel.app/api?username=emedinac&show_icons=true&theme=tokyonight"
