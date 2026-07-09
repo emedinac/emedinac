@@ -1,6 +1,7 @@
 <img height="100px" src="./svg/hello.svg">
 
-# Edgar Medina — Senior AI Engineer | Generative AI & Computer Vision
+# Edgar Medina
+## Senior AI Engineer | Generative AI & Computer Vision
 
 10+ years building production ML systems — from peer-reviewed research (**WACV 2024, VISAPP, WSCG**) to enterprise-scale deployments (General Electric, and fast-moving SaaS/consulting teams). I work across two areas:
 
