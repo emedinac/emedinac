@@ -1,7 +1,6 @@
 <img height="100px" src="./svg/hello.svg">
 
-# Edgar Medina
-# Senior AI Engineer | Generative AI & Computer Vision
+# Edgar Medina — Senior AI Engineer | Generative AI & Computer Vision
 
 10+ years building production ML systems — from peer-reviewed research (**WACV 2024, VISAPP, WSCG**) to enterprise-scale deployments (General Electric, and fast-moving SaaS/consulting teams). I work across two areas:
 
@@ -52,22 +51,6 @@
   <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white" />
   <img alt="C++" src="https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" />
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
-</p>
-
-<br />
-
-## GitHub Activity & Metrics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=emedinac&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emedinac&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=emedinac&theme=tokyonight" alt="Contribution Streak" />
 </p>
 
 <br />
