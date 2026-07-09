@@ -17,15 +17,6 @@
 
 <br />
 
-## Featured Projects
-
-<!-- TODO: replace with your 3-4 strongest public repos. Format below. -->
-- **[project-name](https://github.com/emedinac/REPO)** — one-line description: what it does, why it matters, key stack.
-- **[project-name](https://github.com/emedinac/REPO)** — one-line description.
-- **[project-name](https://github.com/emedinac/REPO)** — one-line description.
-
-<br />
-
 ## Tech Stack
 
 **GenAI / ML**
