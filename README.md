@@ -25,49 +25,70 @@ Finance · Compliance · Manufacturing · Automotive · Industrial AI
 <br />
 
 ## Tech Stack
+## Tech Stack
 
 **AI / Machine Learning**
 <p>
-  <img alt="PyTorch" src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" />
-  <img alt="TensorFlow" src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white" />
-  <img alt="scikit-learn" src="https://img.shields.io/badge/-scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white" />
-  <img alt="Hugging Face" src="https://img.shields.io/badge/-Hugging%20Face-FFD21E?style=flat&logo=huggingface&logoColor=black" />
-  <img alt="LangChain" src="https://img.shields.io/badge/-LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white" />
-  <img alt="LangGraph" src="https://img.shields.io/badge/-LangGraph-121212?style=flat" />
-  <img alt="JAX" src="https://img.shields.io/badge/-JAX-0055FF?style=flat" />
+  <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" />
+  <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white" />
+  <img alt="scikit-learn" src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white" />
+  <img alt="XGBoost" src="https://img.shields.io/badge/XGBoost-337AB7?style=flat" />
+  <img alt="LightGBM" src="https://img.shields.io/badge/LightGBM-02569B?style=flat" />
+  <img alt="Hugging Face" src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat&logo=huggingface&logoColor=black" />
+  <img alt="JAX" src="https://img.shields.io/badge/JAX-0055FF?style=flat" />
 </p>
 
-**GenAI / Retrieval / Data**
+**GenAI / Agents / Retrieval**
 <p>
-  <img alt="RAG" src="https://img.shields.io/badge/-RAG-6C63FF?style=flat" />
-  <img alt="GraphRAG" src="https://img.shields.io/badge/-GraphRAG-8A2BE2?style=flat" />
-  <img alt="MCP" src="https://img.shields.io/badge/-MCP-000000?style=flat" />
-  <img alt="Neo4j" src="https://img.shields.io/badge/-Neo4j-4581C3?style=flat&logo=neo4j&logoColor=white" />
-  <img alt="Qdrant" src="https://img.shields.io/badge/-Qdrant-DC244C?style=flat" />
-  <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" />
-  <img alt="Redis" src="https://img.shields.io/badge/-Redis-DC382D?style=flat&logo=redis&logoColor=white" />
-  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" />
+  <img alt="LangChain" src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white" />
+  <img alt="LangGraph" src="https://img.shields.io/badge/LangGraph-121212?style=flat" />
+  <img alt="RAG" src="https://img.shields.io/badge/RAG-6C63FF?style=flat" />
+  <img alt="GraphRAG" src="https://img.shields.io/badge/GraphRAG-8A2BE2?style=flat" />
+  <img alt="MCP" src="https://img.shields.io/badge/MCP-000000?style=flat" />
+  <img alt="LoRA" src="https://img.shields.io/badge/LoRA%20%2F%20PEFT-FF6F61?style=flat" />
+  <img alt="LangSmith" src="https://img.shields.io/badge/LangSmith-1C3C3C?style=flat" />
 </p>
 
 **MLOps / Cloud / Infrastructure**
 <p>
-  <img alt="MLflow" src="https://img.shields.io/badge/-MLflow-0194E2?style=flat&logo=mlflow&logoColor=white" />
-  <img alt="Docker" src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white" />
-  <img alt="Kubernetes" src="https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white" />
-  <img alt="AWS" src="https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white" />
-  <img alt="GCP" src="https://img.shields.io/badge/-GCP-4285F4?style=flat&logo=googlecloud&logoColor=white" />
-  <img alt="Azure" src="https://img.shields.io/badge/-Azure-0078D4?style=flat" />
-  <img alt="Terraform" src="https://img.shields.io/badge/-Terraform-844FBA?style=flat&logo=terraform&logoColor=white" />
-  <img alt="Airflow" src="https://img.shields.io/badge/-Airflow-017CEE?style=flat&logo=apacheairflow&logoColor=white" />
-  <img alt="Prometheus" src="https://img.shields.io/badge/-Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white" />
-  <img alt="Grafana" src="https://img.shields.io/badge/-Grafana-F46800?style=flat&logo=grafana&logoColor=white" />
+  <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
+  <img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white" />
+  <img alt="MLflow" src="https://img.shields.io/badge/MLflow-0194E2?style=flat&logo=mlflow&logoColor=white" />
+  <img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white" />
+  <img alt="GCP" src="https://img.shields.io/badge/GCP-4285F4?style=flat&logo=googlecloud&logoColor=white" />
+  <img alt="Azure" src="https://img.shields.io/badge/Azure-0078D4?style=flat" />
+  <img alt="Terraform" src="https://img.shields.io/badge/Terraform-844FBA?style=flat&logo=terraform&logoColor=white" />
+  <img alt="CI/CD" src="https://img.shields.io/badge/CI%2FCD-2088FF?style=flat&logo=githubactions&logoColor=white" />
+  <img alt="Airflow" src="https://img.shields.io/badge/Airflow-017CEE?style=flat&logo=apacheairflow&logoColor=white" />
+  <img alt="DVC" src="https://img.shields.io/badge/DVC-13ADC7?style=flat&logo=dvc&logoColor=white" />
+  <img alt="Prometheus" src="https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white" />
+  <img alt="Grafana" src="https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white" />
 </p>
 
-**Languages**
+**Data / Databases**
 <p>
-  <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white" />
-  <img alt="C++" src="https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus&logoColor=white" />
-  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" />
+  <img alt="Neo4j" src="https://img.shields.io/badge/Neo4j-4581C3?style=flat&logo=neo4j&logoColor=white" />
+  <img alt="Qdrant" src="https://img.shields.io/badge/Qdrant-DC244C?style=flat" />
+  <img alt="Redis" src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white" />
+  <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" />
+  <img alt="Kafka" src="https://img.shields.io/badge/Kafka-231F20?style=flat&logo=apachekafka&logoColor=white" />
+</p>
+
+**Inference / Computer Vision**
+<p>
+  <img alt="ONNX" src="https://img.shields.io/badge/ONNX-005CED?style=flat&logo=onnx&logoColor=white" />
+  <img alt="TensorRT" src="https://img.shields.io/badge/TensorRT-76B900?style=flat&logo=nvidia&logoColor=white" />
+  <img alt="OpenCV" src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white" />
+  <img alt="NVIDIA" src="https://img.shields.io/badge/NVIDIA-76B900?style=flat&logo=nvidia&logoColor=white" />
+</p>
+
+**Languages / Engineering**
+<p>
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+  <img alt="C++" src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white" />
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
+  <img alt="Pydantic" src="https://img.shields.io/badge/Pydantic-E92063?style=flat&logo=pydantic&logoColor=white" />
 </p>
 
 <br />
